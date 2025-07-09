@@ -2,10 +2,10 @@ import React, { useEffect, useState } from "react";
 import Header from "./components/Header";
 import Home from "./components/Home";
 import About from "./components/About";
-import Project from "./components/Project";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 import LoadingScreen from "./components/LoadingScreen";
+import Projects from "./components/Projects";
 
 export default function App() {
   const [loading, setLoading] = useState(true);
@@ -36,7 +36,7 @@ export default function App() {
         <Header />
         <Home />
         <About />
-        <Project />
+        <Projects />
         <Contact />
         <Footer />
       </div>
