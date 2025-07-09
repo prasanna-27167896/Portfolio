@@ -14,32 +14,32 @@ import Movie from "../assets/Movie.png";
 import BioInsta from "../assets/Bio-Insta.png";
 
 const projects = [
-  {
-    title: "Tickzy AI Agent with JWT Auth",
-    image: Tickzy,
-    description:
-      "AI-powered ticketing system with secure JWT authentication and intelligent automation using Inngest and the Gemini API.",
-    techStack: [
-      "React.js",
-      "Tailwind",
-      "Node.js",
-      "Express.js",
-      "MongoDB",
-      "Inngest",
-      "Node Mailer",
-      "Gemini API",
-    ],
-    liveLink: "https://tickzy-ai-agent.netlify.app/",
-    githubLink: "https://github.com/prasanna-27167896/AI-Agent",
-  },
+  // {
+  //   title: "Tickzy AI Agent with JWT Auth",
+  //   image: Tickzy,
+  //   description:
+  //     "AI-powered ticketing system with secure JWT authentication and intelligent automation using Inngest and the Gemini API.",
+  //   techStack: [
+  //     "React.js",
+  //     "Tailwind",
+  //     "Node.js",
+  //     "Express.js",
+  //     "MongoDB",
+  //     "Inngest",
+  //     "Node Mailer",
+  //     "Gemini API",
+  //   ],
+  //   liveLink: "https://tickzy-ai-agent.netlify.app/",
+  //   githubLink: "https://github.com/prasanna-27167896/AI-Agent",
+  // },
   {
     title: "Full Stack Todo App",
     image: Todo,
     description:
       "Full Stack Todo App with CRUD functionality using React and a backend for data persistence..",
     techStack: ["React.js", "Node.js", "Express.js", "MongoDB", "Postman"],
-    liveLink: "https://biosta.netlify.app/",
-    githubLink: "https://github.com/yourusername/movie-app",
+    liveLink: "https://wsa-todo-level-1.netlify.app/",
+    githubLink: "https://github.com/prasanna-27167896/todo-app-level-1",
   },
   {
     title: "Portfolio",
