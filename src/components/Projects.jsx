@@ -140,7 +140,7 @@ const projects = [
   },
 ];
 
-const Project = () => {
+const Projects = () => {
   const [showAll, setShowAll] = useState(false);
   const visibleProjects = showAll ? projects : projects.slice(0, 6);
 
@@ -215,4 +215,4 @@ const Project = () => {
   );
 };
 
-export default Project;
+export default Projects;
