@@ -47,8 +47,8 @@ const projects = [
     description:
       "Personal portfolio showcasing projects, skills, and experience, built with React and a responsive design.",
     techStack: ["React.js", "Tailwind CSS"],
-    liveLink: "https://biosta.netlify.app/",
-    githubLink: "https://github.com/yourusername/movie-app",
+    liveLink: "https://prasanna-kumar-portfolio.netlify.app/",
+    githubLink: "https://github.com/prasanna-27167896/Portfolio",
   },
   {
     title: "BioInsta with JWT Authentication",
