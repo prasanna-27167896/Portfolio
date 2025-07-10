@@ -49,7 +49,7 @@ export default function Home() {
 
         <div className="bg-[#fe5617] px-5 py-2 rounded-2xl font-bold text-white hover:bg-[#e04f14] transition">
           <a
-            href="file:///C:/Users/vpras/OneDrive/Desktop/Prasanna_Kumar_V_Resume.pdf"
+            href="https://drive.google.com/file/d/1uVTuLgC46VN3yN8oquLmE_m7177c_5ey/view?usp=drivesdk"
             download
           >
             Download CV

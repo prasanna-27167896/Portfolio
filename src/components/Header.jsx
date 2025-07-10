@@ -14,7 +14,7 @@ const Header = () => {
           <img
             src="https://imgtolink.com/f2a8ed"
             alt="Logo"
-            className="h-[61px] w-[61px] rounded-full shadow-lg object-cover filter sepia"
+            className="h-[60px] w-[60px] rounded-full shadow-lg object-cover filter sepia "
           />
         </div>
 
