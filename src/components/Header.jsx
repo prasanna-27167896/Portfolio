@@ -12,7 +12,7 @@ const Header = () => {
         {/* Logo (Left) */}
         <div className="flex-1">
           <img
-            src="https://imgtolink.com/f2a8ed"
+            src="https://i.postimg.cc/JnPdwRpN/logo.png"
             alt="Logo"
             className="h-[60px] w-[60px] rounded-full shadow-lg object-cover filter sepia "
           />
